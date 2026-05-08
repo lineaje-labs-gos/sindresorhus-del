@@ -79,5 +79,11 @@
   "ava": {
     "serial": true,
     "workerThreads": false
+  },
+  "overrides": {
+    "picomatch": ">=2.3.2"
+  },
+  "resolutions": {
+    "picomatch": ">=2.3.2"
   }
 }
